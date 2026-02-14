@@ -8,7 +8,7 @@ description: >-
   or other static visual pieces. Create original visual designs, never copying
   existing artists' work to avoid copyright violations.
 version: 1.0.0
-tools: Bash, Write, Read, Edit
+tools: Bash, Write, Read, Edit, Task, mcp__playwright__browser_navigate, mcp__playwright__browser_take_screenshot
 argument-hint: "Describe the visual artwork you want to create"
 license: Complete terms in LICENSE.txt
 ---
