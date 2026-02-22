@@ -21,6 +21,15 @@ Complete this in two steps:
 
 First, undertake this task:
 
+## Agent Delegation
+
+Delegate HTML Canvas design to `designer` agent. Use `browser` for rendering/screenshot.
+
+- **Agent**: `designer` (Sonnet, maxTurns=20)
+- **Tools**: Read, Write, Edit, Bash, Glob
+- **Delegate when**: writing the design philosophy, generating HTML/CSS canvas code, refining composition
+- **Use `browser` for**: Playwright rendering and screenshot capture of the final canvas
+
 ## DESIGN PHILOSOPHY CREATION
 
 To begin, create a VISUAL PHILOSOPHY (not layouts or templates) that will be interpreted through:
