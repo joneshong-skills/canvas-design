@@ -1,16 +1,11 @@
 ---
 name: canvas-design
-description: >-
-  Create beautiful visual art in .png and .pdf documents using design philosophy.
-  You should use this skill when the user asks to "create a poster",
-  "design a visual", "make art", "create a canvas", "Canvas 設計",
-  "畫布設計", "設計圖表", "視覺設計", "HTML Canvas",
-  or other static visual pieces. Create original visual designs, never copying
-  existing artists' work to avoid copyright violations.
+description: "design, canvas, create, poster, visual, art"
 version: 1.0.0
-tools: Bash, Write, Read, Edit, Task, mcp__playwright__browser_navigate, mcp__playwright__browser_take_screenshot
+tools: Bash, Write, Read, Edit, Task
 argument-hint: "Describe the visual artwork you want to create"
 license: Complete terms in LICENSE.txt
+disable-model-invocation: true
 ---
 
 These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.
