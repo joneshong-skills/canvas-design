@@ -5,7 +5,6 @@ version: 1.0.0
 tools: Bash, Write, Read, Edit, Task
 argument-hint: "Describe the visual artwork you want to create"
 license: Complete terms in LICENSE.txt
-disable-model-invocation: true
 ---
 
 These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.
